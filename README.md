@@ -3,7 +3,7 @@
 |#|Title|Description|Solution|
 |---|:----- |:----------- |:-------- |
 |[9](https://leetcode.com/problems/palindrome-number/)|Palindrome Number|Determine whether an integer is a palindrome. Do this without extra space.|[here](./leetcode/009_PalindromeNumber.java)|
-|[226](https://leetcode.com/problems/invert-binary-tree/)|Invert a binary tree.|[here](./leetcode/226_InvertBT.java)|
+|[226](https://leetcode.com/problems/invert-binary-tree/)|Invert binary tree.|Invert Binary Tree|[here](./leetcode/226_InvertBT.java)|
 |[228](https://leetcode.com/problems/summary-ranges/)|Summary Ranges|Given a sorted integer array without duplicates, return the summary of its ranges.|[here](./leetcode/228_SummaryRanges.java)|
 |[229](https://leetcode.com/problems/majority-element-ii/)|Majority Element II|Given an integer array of size n, find all elements that appear more than  n/3  times. The algorithm should run in linear time and in O(1) space.|[here](./leetcode/229_MajorityElement.java)|
 |[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Kth Smallest Element in a BST|Given a binary search tree, write a function kthSmallest to find the kth smallest element in it.|[here](./leetcode/230_KthSmallestBST.java)|
